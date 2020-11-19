@@ -1,1 +1,1 @@
-content fantastic
+a new maza file
